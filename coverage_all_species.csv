@@ -1,0 +1,779 @@
+scientific_name,common_name,order,family,iucn_status,rare_accidental,wpa_schedule,soib_priority,wh_endemic,n_recordings
+Phylloscopus xanthoschistos,Gray-hooded Warbler,Passeriformes,Phylloscopidae,,no,Schedule-II,Low,no,88
+Phylloscopus occipitalis,Western Crowned Warbler,Passeriformes,Phylloscopidae,,no,Schedule-II,Moderate,no,20
+Periparus rufonuchalis,Rufous-naped Tit,Passeriformes,Paridae,,no,Schedule-II,Low,no,16
+Sitta cashmirensis,Kashmir Nuthatch,Passeriformes,Sittidae,,no,Schedule-II,Moderate,yes,16
+Corvus macrorhynchos,Large-billed Crow,Passeriformes,Corvidae,,no,Schedule-II,Low,no,14
+Emberiza cia,Rock Bunting,Passeriformes,Emberizidae,,no,Schedule-II,Low,no,14
+Mycerobas icterioides,Black-and-yellow Grosbeak,Passeriformes,Fringillidae,,no,Schedule-II,Low,no,14
+Phylloscopus sindianus,Mountain Chiffchaff,Passeriformes,Phylloscopidae,,no,Schedule-II,,no,14
+Trochalopteron lineatum,Streaked Laughingthrush,Passeriformes,Leiothrichidae,,no,Schedule-II,Low,no,14
+Callacanthis burtoni,Spectacled Finch,Passeriformes,Fringillidae,,no,Schedule-II,Moderate,yes,13
+Horornis fortipes,Brownish-flanked Bush Warbler,Passeriformes,Cettiidae,,no,Schedule-II,Low,no,13
+Larvivora brunnea,Indian Blue Robin,Passeriformes,Muscicapidae,,no,Schedule-II,Moderate,no,13
+Turdus unicolor,Tickell's Thrush,Passeriformes,Turdidae,,no,Schedule-II,Low,no,13
+Leptopoecile sophiae,White-browed Tit-Warbler,Passeriformes,Aegithalidae,,no,,,no,12
+Parus cinereus,Asian Tit,Passeriformes,Paridae,,no,Schedule-II,Low,no,12
+Periparus ater,Coal Tit,Passeriformes,Paridae,,no,Schedule-II,Low,no,12
+Pica pica,Eurasian Magpie,Passeriformes,Corvidae,,no,Schedule-II,,no,12
+Ibidorhyncha struthersii,Ibisbill,Charadriiformes,Ibidorhynchidae,,no,Schedule-I,Moderate,no,11
+Passer cinnamomeus,Russet Sparrow,Passeriformes,Passeridae,,no,Schedule-II,Low,no,11
+Ficedula ruficauda,Rusty-tailed Flycatcher,Passeriformes,Muscicapidae,,no,Schedule-II,Moderate,no,10
+Phoenicurus erythrogastrus,White-winged Redstart,Passeriformes,Muscicapidae,,no,Schedule-II,,no,10
+Phylloscopus chloronotus,Lemon-rumped Warbler,Passeriformes,Phylloscopidae,,no,Schedule-II,Moderate,no,10
+Pyrrhula aurantiaca,Orange Bullfinch,Passeriformes,Fringillidae,,no,Schedule-II,Moderate,yes,10
+Sitta leucopsis,White-cheeked Nuthatch,Passeriformes,Sittidae,,no,Schedule-II,Moderate,yes,10
+Nucifraga multipunctata,Kashmir Nutcracker,Passeriformes,Corvidae,,no,Schedule-II,Moderate,no,9
+Myophonus caeruleus,Blue Whistling-Thrush,Passeriformes,Muscicapidae,,no,Schedule-II,Low,no,8
+Prunella fulvescens,Brown Accentor,Passeriformes,Prunellidae,,no,Schedule-II,,no,8
+Prunella strophiata,Rufous-breasted Accentor,Passeriformes,Prunellidae,,no,Schedule-II,Moderate,no,8
+Saxicola ferreus,Gray Bushchat,Passeriformes,Muscicapidae,,no,Schedule-II,Low,no,7
+Turdus atrogularis,Black-throated Thrush,Passeriformes,Turdidae,,no,Schedule-II,Low,no,7
+Urocissa flavirostris,Yellow-billed Blue-Magpie,Passeriformes,Corvidae,,no,Schedule-II,Low,no,7
+Calliope pectoralis,Himalayan Rubythroat,Passeriformes,Muscicapidae,,no,Schedule-II,Low,no,6
+Chloris spinoides,Yellow-breasted Greenfinch,Passeriformes,Fringillidae,,no,Schedule-II,Moderate,no,6
+Leucosticte nemoricola,Plain Mountain Finch,Passeriformes,Fringillidae,,no,Schedule-II,Moderate,no,6
+Monticola cinclorhyncha,Blue-capped Rock-Thrush,Passeriformes,Muscicapidae,,no,Schedule-II,High,no,6
+Motacilla citreola,Citrine Wagtail,Passeriformes,Motacillidae,,no,Schedule-II,Moderate,no,6
+Phoenicurus ochruros,Black Redstart,Passeriformes,Muscicapidae,,no,Schedule-II,Moderate,no,6
+Picus squamatus,Scaly-bellied Woodpecker,Piciformes,Picidae,,no,Schedule-II,Low,no,6
+Pycnonotus leucogenys,Himalayan Bulbul,Passeriformes,Pycnonotidae,,no,Schedule-II,Low,no,6
+Trochalopteron variegatum,Variegated Laughingthrush,Passeriformes,Leiothrichidae,,no,Schedule-II,Low,no,6
+Troglodytes troglodytes,Eurasian Wren,Passeriformes,Troglodytidae,,no,Schedule-II,Low,no,6
+Turdus boulboul,Gray-winged Blackbird,Passeriformes,Turdidae,,no,Schedule-II,Low,no,6
+Turdus rubrocanus,Chestnut Thrush,Passeriformes,Turdidae,,no,Schedule-II,Low,no,6
+Coloeus monedula,Eurasian Jackdaw,Passeriformes,Corvidae,,no,Schedule-II,,no,5
+Dicrurus leucophaeus,Ashy Drongo,Passeriformes,Dicruridae,,no,Schedule-II,Low,no,5
+Ficedula subrubra,Kashmir Flycatcher,Passeriformes,Muscicapidae,Vulnerable,no,Schedule-I,High,no,5
+Ficedula superciliaris,Ultramarine Flycatcher,Passeriformes,Muscicapidae,,no,Schedule-II,Low,no,5
+Muscicapa sibirica,Dark-sided Flycatcher,Passeriformes,Muscicapidae,,no,Schedule-II,Low,no,5
+Phylloscopus humei,Hume's Warbler,Passeriformes,Phylloscopidae,,no,Schedule-II,Low,no,5
+Phylloscopus pulcher,Buff-barred Warbler,Passeriformes,Phylloscopidae,,no,Schedule-II,Low,no,5
+Phylloscopus tytleri,Tytler's Leaf Warbler,Passeriformes,Phylloscopidae,,no,Schedule-II,Moderate,no,5
+Saxicola maurus,Siberian Stonechat,Passeriformes,Muscicapidae,,no,Schedule-II,Low,no,5
+Turdus ruficollis,Red-throated Thrush,Passeriformes,Turdidae,,no,Schedule-II,Moderate,no,5
+Acrocephalus stentoreus,Clamorous Reed Warbler,Passeriformes,Acrocephalidae,,no,Schedule-II,Low,no,4
+Carpodacus erythrinus,Common Rosefinch,Passeriformes,Fringillidae,,no,Schedule-II,Moderate,no,4
+Certhia himalayana,Bar-tailed Treecreeper,Passeriformes,Certhiidae,,no,Schedule-II,Low,no,4
+Chlidonias hybrida,Whiskered Tern,Charadriiformes,Laridae,,no,Schedule-II,High,no,4
+Ficedula tricolor,Slaty-blue Flycatcher,Passeriformes,Muscicapidae,,no,Schedule-II,Low,no,4
+Gallus gallus,Red Junglefowl,Galliformes,Phasianidae,,no,Schedule-II,Low,no,4
+Hypsipetes leucocephalus,Black Bulbul,Passeriformes,Pycnonotidae,,no,Schedule-II,Low,no,4
+Locustella kashmirensis,West Himalayan Bush Warbler,Passeriformes,Locustellidae,,no,,,no,4
+Luscinia svecica,Bluethroat,Passeriformes,Muscicapidae,,no,Schedule-II,Moderate,no,4
+Montifringilla adamsi,Black-winged Snowfinch,Passeriformes,Passeridae,,no,,,no,4
+Phylloscopus affinis,Tickell's Leaf Warbler,Passeriformes,Phylloscopidae,,no,Schedule-II,Low,no,4
+Prunella rubeculoides,Robin Accentor,Passeriformes,Prunellidae,,no,Schedule-II,Low,no,4
+Serinus pusillus,Fire-fronted Serin,Passeriformes,Fringillidae,,no,Schedule-II,Low,no,4
+Streptopelia orientalis,Oriental Turtle-Dove,Columbiformes,Columbidae,,no,Schedule-II,Low,no,4
+Tarsiger rufilatus,Himalayan Bluetail,Passeriformes,Muscicapidae,,no,Schedule-II,Low,no,4
+Acridotheres tristis,Common Myna,Passeriformes,Sturnidae,,no,Schedule-II,Low,no,3
+Alectoris chukar,Chukar,Galliformes,Phasianidae,,no,Schedule-II,Low,no,3
+Carpodacus grandis,Blyth's Rosefinch,Passeriformes,Fringillidae,,no,Schedule-II,Moderate,no,3
+Corvus corax,Common Raven,Passeriformes,Corvidae,,no,Schedule-II,Low,no,3
+Culicicapa ceylonensis,Gray-headed Canary-Flycatcher,Passeriformes,Stenostiridae,,no,Schedule-II,Moderate,no,3
+Emberiza stewarti,White-capped Bunting,Passeriformes,Emberizidae,,no,Schedule-II,Low,no,3
+Galerida cristata,Crested Lark,Passeriformes,Alaudidae,,no,Schedule-II,Moderate,no,3
+Linaria flavirostris,Twite,Passeriformes,Fringillidae,,no,Schedule-II,Moderate,no,3
+Milvus migrans,Black Kite,Accipitriformes,Accipitridae,,no,Schedule-II,Low,no,3
+Oriolus kundoo,Indian Golden Oriole,Passeriformes,Oriolidae,,no,Schedule-II,Low,no,3
+Phoenicurus fuliginosus,Plumbeous Redstart,Passeriformes,Muscicapidae,,no,Schedule-II,High,no,3
+Phoenicurus leucocephalus,White-capped Redstart,Passeriformes,Muscicapidae,,no,Schedule-II,Moderate,no,3
+Pyrrhocorax pyrrhocorax,Red-billed Chough,Passeriformes,Corvidae,,no,Schedule-II,Low,no,3
+Tragopan melanocephalus,Western Tragopan,Galliformes,Phasianidae,Vulnerable,no,Schedule-I,High,yes,3
+Accipiter nisus,Eurasian Sparrowhawk,Accipitriformes,Accipitridae,,no,Schedule-I,Low,no,2
+Alauda arvensis,Eurasian Skylark,Passeriformes,Alaudidae,,no,Schedule-II,,no,2
+Alauda gulgula,Oriental Skylark,Passeriformes,Alaudidae,,no,Schedule-II,High,no,2
+Anthus roseatus,Rosy Pipit,Passeriformes,Motacillidae,,no,Schedule-II,Low,no,2
+Anthus spinoletta,Water Pipit,Passeriformes,Motacillidae,,no,Schedule-II,,no,2
+Buteo hemilasius,Upland Buzzard,Accipitriformes,Accipitridae,,no,,,no,2
+Buteo refectus,Himalayan Buzzard,Accipitriformes,Accipitridae,,no,Schedule-I,,no,2
+Carpodacus rodochroa,Pink-browed Rosefinch,Passeriformes,Fringillidae,,no,Schedule-II,Low,no,2
+Carpodacus rubicilla,Great Rosefinch,Passeriformes,Fringillidae,,no,,,no,2
+Carpodacus rubicilloides,Streaked Rosefinch,Passeriformes,Fringillidae,,no,,,no,2
+Certhia hodgsoni,Hodgson's Treecreeper,Passeriformes,Certhiidae,,no,Schedule-II,Low,no,2
+Columba livia,Rock Pigeon,Columbiformes,Columbidae,,no,Not scheduled,Low,no,2
+Corvus splendens,House Crow,Passeriformes,Corvidae,,no,Not scheduled,Low,no,2
+Cuculus canorus,Common Cuckoo,Cuculiformes,Cuculidae,,no,Schedule-II,Low,no,2
+Curruca curruca,Lesser Whitethroat,Passeriformes,Sylviidae,,no,Schedule-II,Low,no,2
+Dendrocopos himalayensis,Himalayan Woodpecker,Piciformes,Picidae,,no,Schedule-II,Low,no,2
+Dendrocoptes auriceps,Brown-fronted Woodpecker,Piciformes,Picidae,,no,Schedule-II,Low,no,2
+Garrulus glandarius,Eurasian Jay,Passeriformes,Corvidae,,no,Schedule-II,Low,no,2
+Grus nigricollis,Black-necked Crane,Gruiformes,Gruidae,Near-threatened,no,,,no,2
+Horornis flavolivaceus,Aberrant Bush Warbler,Passeriformes,Cettiidae,,no,Schedule-II,Low,no,2
+Locustella major,Long-billed Bush Warbler,Passeriformes,Locustellidae,Endangered,no,Schedule-II,High,no,2
+Melanocorypha maxima,Tibetan Lark,Passeriformes,Alaudidae,,no,,,no,2
+Mergus merganser,Common Merganser,Anseriformes,Anatidae,,no,Schedule-II,High,no,2
+Ninox scutulata,Brown Boobook,Strigiformes,Strigidae,,no,Schedule-II,,no,2
+Otus sunia,Oriental Scops-Owl,Strigiformes,Strigidae,,no,Schedule-II,,no,2
+Parus monticolus,Green-backed Tit,Passeriformes,Paridae,,no,Schedule-II,Low,no,2
+Passer domesticus,House Sparrow,Passeriformes,Passeridae,,no,Schedule-II,Moderate,no,2
+Phylloscopus griseolus,Sulphur-bellied Warbler,Passeriformes,Phylloscopidae,,no,Schedule-II,High,no,2
+Picus chlorolophus,Lesser Yellownape,Piciformes,Picidae,,no,Schedule-II,Low,no,2
+Psilopogon virens,Great Barbet,Piciformes,Megalaimidae,,no,Schedule-II,Low,no,2
+Pucrasia macrolopha,Koklass Pheasant,Galliformes,Phasianidae,,no,Schedule-II,Low,no,2
+Pyrrhocorax graculus,Yellow-billed Chough,Passeriformes,Corvidae,,no,Schedule-II,Low,no,2
+Regulus regulus,Goldcrest,Passeriformes,Regulidae,,no,Schedule-II,Low,no,2
+Terpsiphone paradisi,Indian Paradise-Flycatcher,Passeriformes,Monarchidae,,no,Schedule-II,Low,no,2
+Tetraogallus himalayensis,Himalayan Snowcock,Galliformes,Phasianidae,,no,Schedule-II,Moderate,no,2
+Tringa nebularia,Common Greenshank,Charadriiformes,Scolopacidae,,no,Schedule-I,High,no,2
+Tringa ochropus,Green Sandpiper,Charadriiformes,Scolopacidae,,no,Schedule-II,Low,no,2
+Turdus maximus,Tibetan Blackbird,Passeriformes,Turdidae,,no,Schedule-II,High,no,2
+Zapornia fusca,Ruddy-breasted Crake,Gruiformes,Rallidae,,no,Schedule-II,Low,no,2
+Actinodura strigula,Chestnut-tailed Minla,Passeriformes,Leiothrichidae,,no,Schedule-II,Low,no,1
+Anser indicus,Bar-headed Goose,Anseriformes,Anatidae,,no,Schedule-II,Moderate,no,1
+Anthus cervinus,Red-throated Pipit,Passeriformes,Motacillidae,,no,Schedule-II,,no,1
+Apus apus,Common Swift,Apodiformes,Apodidae,,no,Schedule-II,,no,1
+Bubo bubo,Eurasian Eagle-Owl,Strigiformes,Strigidae,,no,Schedule-I,,no,1
+Bucanetes mongolicus,Mongolian Finch,Passeriformes,Fringillidae,,no,,,no,1
+Calandrella acutirostris,Hume's Lark,Passeriformes,Alaudidae,,no,Schedule-II,Moderate,no,1
+Calidris temminckii,Temminck's Stint,Charadriiformes,Scolopacidae,,no,Schedule-II,Moderate,no,1
+Caprimulgus macrurus,Large-tailed Nightjar,Caprimulgiformes,Caprimulgidae,,no,Schedule-II,,no,1
+Carpodacus thura,Himalayan White-browed Rosefinch,Passeriformes,Fringillidae,,no,Schedule-II,Moderate,no,1
+Chelidorhynx hypoxanthus,Yellow-bellied Fairy-Fantail,Passeriformes,Stenostiridae,,no,Schedule-II,Moderate,no,1
+Chroicocephalus brunnicephalus,Brown-headed Gull,Charadriiformes,Laridae,,no,Schedule-II,High,no,1
+Columba rupestris,Hill Pigeon,Columbiformes,Columbidae,,no,Schedule-II,Low,no,1
+Corvus corone,Carrion Crow,Passeriformes,Corvidae,,no,Schedule-II,,no,1
+Cuculus poliocephalus,Lesser Cuckoo,Cuculiformes,Cuculidae,,no,Schedule-II,Low,no,1
+Cuculus saturatus,Himalayan Cuckoo,Cuculiformes,Cuculidae,,no,Schedule-II,Low,no,1
+Emberiza fucata,Chestnut-eared Bunting,Passeriformes,Emberizidae,,no,Schedule-II,Moderate,no,1
+Enicurus maculatus,Spotted Forktail,Passeriformes,Muscicapidae,,no,Schedule-II,Low,no,1
+Falco subbuteo,Eurasian Hobby,Falconiformes,Falconidae,,no,Schedule-II,Low,no,1
+Francolinus francolinus,Black Francolin,Galliformes,Phasianidae,,no,Schedule-II,Low,no,1
+Gallinula chloropus,Eurasian Moorhen,Gruiformes,Rallidae,,no,Schedule-II,Low,no,1
+Gyps bengalensis,White-rumped Vulture,Accipitriformes,Accipitridae,Critically endangered,no,Schedule-I,High,no,1
+Jynx torquilla,Eurasian Wryneck,Piciformes,Picidae,,no,Schedule-II,Low,no,1
+Leucosticte brandti,Black-headed Mountain Finch,Passeriformes,Fringillidae,,no,,,no,1
+Luscinia phaenicuroides,White-bellied Redstart,Passeriformes,Muscicapidae,,no,Schedule-II,Moderate,no,1
+Monticola solitarius,Blue Rock-Thrush,Passeriformes,Muscicapidae,,no,Schedule-II,High,no,1
+Motacilla alba,White Wagtail,Passeriformes,Motacillidae,,no,Schedule-II,Moderate,no,1
+Motacilla cinerea,Gray Wagtail,Passeriformes,Motacillidae,,no,Schedule-II,Moderate,no,1
+Mycerobas melanozanthos,Spot-winged Grosbeak,Passeriformes,Fringillidae,,no,,,no,1
+Oenanthe deserti,Desert Wheatear,Passeriformes,Muscicapidae,,no,Schedule-II,High,no,1
+Pericrocotus ethologus,Long-tailed Minivet,Passeriformes,Campephagidae,,no,Schedule-II,Low,no,1
+Petrochelidon fluvicola,Streak-throated Swallow,Passeriformes,Hirundinidae,,no,Schedule-II,Low,no,1
+Phylloscopus magnirostris,Large-billed Leaf Warbler,Passeriformes,Phylloscopidae,,no,Schedule-II,Moderate,no,1
+Phylloscopus reguloides,Blyth's Leaf Warbler,Passeriformes,Phylloscopidae,,no,Schedule-II,Low,no,1
+Phylloscopus trochiloides,Greenish Warbler,Passeriformes,Phylloscopidae,,no,Schedule-II,Low,no,1
+Prinia crinigera,Himalayan Prinia,Passeriformes,Cisticolidae,,no,Schedule-II,Low,no,1
+Pseudopodoces humilis,Ground Tit,Passeriformes,Paridae,,no,,,no,1
+Psilopogon asiaticus,Blue-throated Barbet,Piciformes,Megalaimidae,,no,Schedule-II,Low,no,1
+Psittacula himalayana,Slaty-headed Parakeet,Psittaciformes,Psittaculidae,,no,Schedule-II,Low,no,1
+Psittacula krameri,Rose-ringed Parakeet,Psittaciformes,Psittaculidae,,no,Schedule-II,Low,no,1
+Ptyonoprogne rupestris,Eurasian Crag-Martin,Passeriformes,Hirundinidae,,no,Schedule-II,High,no,1
+Pyrgilauda blanfordi,Blanford's Snowfinch,Passeriformes,Passeridae,,no,,,no,1
+Rallus aquaticus,Water Rail,Gruiformes,Rallidae,,no,Schedule-II,,no,1
+Sterna hirundo,Common Tern,Charadriiformes,Laridae,,no,Schedule-II,High,no,1
+Sturnus vulgaris,European Starling,Passeriformes,Sturnidae,,no,Schedule-II,Moderate,no,1
+Syrrhaptes tibetanus,Tibetan Sandgrouse,Pterocliformes,Pteroclidae,,no,,,no,1
+Tachybaptus ruficollis,Little Grebe,Podicipediformes,Podicipedidae,,no,Schedule-II,Low,no,1
+Tringa totanus,Common Redshank,Charadriiformes,Scolopacidae,,no,Schedule-II,High,no,1
+Turdus viscivorus,Mistle Thrush,Passeriformes,Turdidae,,no,Schedule-II,Low,no,1
+Upupa epops,Common Hoopoe,Bucerotiformes,Upupidae,,no,Schedule-II,Moderate,no,1
+Urocissa erythroryncha,Red-billed Blue-Magpie,Passeriformes,Corvidae,,no,Schedule-II,Low,no,1
+Acridotheres fuscus,Jungle Myna,Passeriformes,Sturnidae,,no,Schedule-II,Low,no,0
+Acridotheres ginginianus,Bank Myna,Passeriformes,Sturnidae,,no,Schedule-II,High,no,0
+Acrocephalus agricola,Paddyfield Warbler,Passeriformes,Acrocephalidae,,no,Schedule-II,Low,no,0
+Acrocephalus bistrigiceps,Black-browed Reed Warbler,Passeriformes,Acrocephalidae,,no,,,no,0
+Acrocephalus concinens,Blunt-winged Warbler,Passeriformes,Acrocephalidae,,no,Schedule-II,,no,0
+Acrocephalus dumetorum,Blyth's Reed Warbler,Passeriformes,Acrocephalidae,,no,Schedule-II,Low,no,0
+Acrocephalus melanopogon,Moustached Warbler,Passeriformes,Acrocephalidae,,no,Schedule-II,,no,0
+Acrocephalus orientalis,Oriental Reed Warbler,Passeriformes,Acrocephalidae,,no,,,no,0
+Acrocephalus orinus,Large-billed Reed Warbler,Passeriformes,Acrocephalidae,,yes,,,no,0
+Acrocephalus schoenobaenus,Sedge Warbler,Passeriformes,Acrocephalidae,,no,,,no,0
+Actitis hypoleucos,Common Sandpiper,Charadriiformes,Scolopacidae,,no,Schedule-II,Moderate,no,0
+Aegithalos concinnus,Black-throated Tit,Passeriformes,Aegithalidae,,no,Schedule-II,Low,no,0
+Aegithalos leucogenys,White-cheeked Tit,Passeriformes,Aegithalidae,,no,,,no,0
+Aegithalos niveogularis,White-throated Tit,Passeriformes,Aegithalidae,,no,Schedule-II,Moderate,yes,0
+Aegithina tiphia,Common Iora,Passeriformes,Aegithinidae,,no,Schedule-II,Low,no,0
+Aegolius funereus,Boreal Owl,Strigiformes,Strigidae,,yes,,,no,0
+Aegypius monachus,Cinereous Vulture,Accipitriformes,Accipitridae,Near-threatened,no,Schedule-I,Moderate,no,0
+Aerodramus brevirostris,Himalayan Swiftlet,Apodiformes,Apodidae,,no,,,no,0
+Aethopyga gouldiae,Mrs. Gould's Sunbird,Passeriformes,Nectariniidae,,no,Schedule-II,Low,no,0
+Aethopyga siparaja,Crimson Sunbird,Passeriformes,Nectariniidae,,no,Schedule-II,Low,no,0
+Agropsar sturninus,Daurian Starling,Passeriformes,Sturnidae,,no,,,no,0
+Alaemon alaudipes,Greater Hoopoe-Lark,Passeriformes,Alaudidae,,no,,,no,0
+Alaudala heinei,Turkestan Short-toed Lark,Passeriformes,Alaudidae,,no,,,no,0
+Alaudala raytal,Sand Lark,Passeriformes,Alaudidae,,no,Schedule-II,Moderate,no,0
+Alcedo atthis,Common Kingfisher,Coraciiformes,Alcedinidae,,no,Schedule-II,Low,no,0
+Amandava amandava,Red Avadavat,Passeriformes,Estrildidae,,no,Schedule-II,Low,no,0
+Amaurornis phoenicurus,White-breasted Waterhen,Gruiformes,Rallidae,,no,Schedule-II,Low,no,0
+Ammomanes deserti,Desert Lark,Passeriformes,Alaudidae,,no,,,no,0
+Anarhynchus alexandrinus,Kentish Plover,Charadriiformes,Charadriidae,,no,Schedule-II,High,no,0
+Anarhynchus asiaticus,Caspian Plover,Charadriiformes,Charadriidae,,yes,Schedule-II,,no,0
+Anarhynchus atrifrons,Tibetan Sand-Plover,Charadriiformes,Charadriidae,,no,Schedule-II,High,no,0
+Anarhynchus leschenaultii,Greater Sand-Plover,Charadriiformes,Charadriidae,,no,,,no,0
+Anas acuta,Northern Pintail,Anseriformes,Anatidae,,no,Schedule-II,High,no,0
+Anas crecca,Green-winged Teal,Anseriformes,Anatidae,,no,Schedule-II,High,no,0
+Anas platyrhynchos,Mallard,Anseriformes,Anatidae,,no,Schedule-II,Low,no,0
+Anas poecilorhyncha,Indian Spot-billed Duck,Anseriformes,Anatidae,,no,Schedule-II,Low,no,0
+Anas zonorhyncha,Eastern Spot-billed Duck,Anseriformes,Anatidae,,yes,,,no,0
+Anhinga melanogaster,Oriental Darter,Suliformes,Anhingidae,,no,Schedule-II,Low,no,0
+Anser albifrons,Greater White-fronted Goose,Anseriformes,Anatidae,,no,Schedule-II,,no,0
+Anser anser,Graylag Goose,Anseriformes,Anatidae,,no,Schedule-II,Low,no,0
+Anser erythropus,Lesser White-fronted Goose,Anseriformes,Anatidae,Vulnerable,no,Schedule-II,,no,0
+Anser fabalis,Taiga Bean-Goose,Anseriformes,Anatidae,,yes,,,no,0
+Anser serrirostris,Tundra Bean-Goose,Anseriformes,Anatidae,,yes,Schedule-II,,no,0
+Anthus campestris,Tawny Pipit,Passeriformes,Motacillidae,,no,Schedule-II,High,no,0
+Anthus godlewskii,Blyth's Pipit,Passeriformes,Motacillidae,,no,,,no,0
+Anthus hodgsoni,Olive-backed Pipit,Passeriformes,Motacillidae,,no,Schedule-II,High,no,0
+Anthus japonicus,Siberian Pipit,Passeriformes,Motacillidae,,no,Schedule-II,,no,0
+Anthus pratensis,Meadow Pipit,Passeriformes,Motacillidae,,yes,,,no,0
+Anthus richardi,Richard's Pipit,Passeriformes,Motacillidae,,no,Schedule-II,Low,no,0
+Anthus rufulus,Paddyfield Pipit,Passeriformes,Motacillidae,,no,Schedule-II,Low,no,0
+Anthus similis,Long-billed Pipit,Passeriformes,Motacillidae,,no,Schedule-II,Moderate,no,0
+Anthus sylvanus,Upland Pipit,Passeriformes,Motacillidae,,no,Schedule-II,Low,no,0
+Anthus trivialis,Tree Pipit,Passeriformes,Motacillidae,,no,Schedule-II,Moderate,no,0
+Antigone antigone,Sarus Crane,Gruiformes,Gruidae,Vulnerable,no,Schedule-I,High,no,0
+Apus affinis,Little Swift,Apodiformes,Apodidae,,no,Schedule-II,Low,no,0
+Apus leuconyx,Blyth's Swift,Apodiformes,Apodidae,,no,Schedule-II,Moderate,no,0
+Apus nipalensis,House Swift,Apodiformes,Apodidae,,no,,,no,0
+Aquila chrysaetos,Golden Eagle,Accipitriformes,Accipitridae,,no,Schedule-I,Low,no,0
+Aquila fasciata,Bonelli's Eagle,Accipitriformes,Accipitridae,,no,Schedule-I,Low,no,0
+Aquila heliaca,Imperial Eagle,Accipitriformes,Accipitridae,Vulnerable,no,Schedule-I,Moderate,no,0
+Aquila nipalensis,Steppe Eagle,Accipitriformes,Accipitridae,Endangered,no,Schedule-I,Low,no,0
+Aquila rapax,Tawny Eagle,Accipitriformes,Accipitridae,Vulnerable,no,Schedule-I,High,no,0
+Arborophila torqueola,Hill Partridge,Galliformes,Phasianidae,,no,Schedule-II,Low,no,0
+Ardea alba,Great Egret,Pelecaniformes,Ardeidae,,no,Schedule-II,Low,no,0
+Ardea cinerea,Gray Heron,Pelecaniformes,Ardeidae,,no,Schedule-II,Low,no,0
+Ardea coromanda,Eastern Cattle-Egret,Pelecaniformes,Ardeidae,,no,Schedule-II,Low,no,0
+Ardea intermedia,Medium Egret,Pelecaniformes,Ardeidae,,no,Schedule-II,Low,no,0
+Ardea purpurea,Purple Heron,Pelecaniformes,Ardeidae,,no,Schedule-II,Low,no,0
+Ardeola bacchus,Chinese Pond-Heron,Pelecaniformes,Ardeidae,,no,Schedule-II,,no,0
+Ardeola grayii,Indian Pond-Heron,Pelecaniformes,Ardeidae,,no,Schedule-II,Low,no,0
+Arenaria interpres,Ruddy Turnstone,Charadriiformes,Scolopacidae,Near-threatened,no,Schedule-II,Moderate,no,0
+Argya caudata,Common Babbler,Passeriformes,Leiothrichidae,,no,Schedule-II,Moderate,no,0
+Argya earlei,Striated Babbler,Passeriformes,Leiothrichidae,,no,Schedule-II,Low,no,0
+Argya malcolmi,Large Gray Babbler,Passeriformes,Leiothrichidae,,no,,,no,0
+Argya striata,Jungle Babbler,Passeriformes,Leiothrichidae,,no,Schedule-II,Low,no,0
+Arundinax aedon,Thick-billed Warbler,Passeriformes,Acrocephalidae,,no,,,no,0
+Asio flammeus,Short-eared Owl,Strigiformes,Strigidae,,no,Schedule-I,Low,no,0
+Asio otus,Long-eared Owl,Strigiformes,Strigidae,,no,Schedule-I,,no,0
+Astur gentilis,Eurasian Goshawk,Accipitriformes,Accipitridae,,no,Schedule-I,,no,0
+Athene brama,Spotted Owlet,Strigiformes,Strigidae,,no,Schedule-II,,no,0
+Athene noctua,Little Owl,Strigiformes,Strigidae,,no,,,no,0
+Aythya ferina,Common Pochard,Anseriformes,Anatidae,Vulnerable,no,Schedule-I,High,no,0
+Aythya fuligula,Tufted Duck,Anseriformes,Anatidae,,no,Schedule-II,High,no,0
+Aythya marila,Greater Scaup,Anseriformes,Anatidae,,no,Schedule-II,,no,0
+Aythya nyroca,Ferruginous Duck,Anseriformes,Anatidae,Near-threatened,no,Schedule-II,Moderate,no,0
+Bombycilla garrulus,Bohemian Waxwing,Passeriformes,Bombycillidae,,no,Schedule-II,,no,0
+Botaurus cinnamomeus,Cinnamon Bittern,Pelecaniformes,Ardeidae,,no,Schedule-I,Low,no,0
+Botaurus flavicollis,Black Bittern,Pelecaniformes,Ardeidae,,no,Schedule-II,Low,no,0
+Botaurus minutus,Little Bittern,Pelecaniformes,Ardeidae,,no,Schedule-II,,no,0
+Botaurus sinensis,Yellow Bittern,Pelecaniformes,Ardeidae,,no,Schedule-II,Low,no,0
+Botaurus stellaris,Eurasian Bittern,Pelecaniformes,Ardeidae,,no,Schedule-II,,no,0
+Bubo bengalensis,Rock Eagle-Owl,Strigiformes,Strigidae,,no,Schedule-I,,no,0
+Bucanetes githagineus,Trumpeter Finch,Passeriformes,Fringillidae,,no,,,no,0
+Bucephala clangula,Common Goldeneye,Anseriformes,Anatidae,,no,Schedule-II,,no,0
+Burhinus indicus,Indian Thick-knee,Charadriiformes,Burhinidae,,no,Schedule-II,Low,no,0
+Butastur teesa,White-eyed Buzzard,Accipitriformes,Accipitridae,,no,Schedule-I,Moderate,no,0
+Buteo buteo,Common Buzzard,Accipitriformes,Accipitridae,,no,Schedule-I,Low,no,0
+Buteo lagopus,Rough-legged Hawk,Accipitriformes,Accipitridae,,yes,,,no,0
+Buteo rufinus,Long-legged Buzzard,Accipitriformes,Accipitridae,,no,Schedule-I,Low,no,0
+Butorides atricapilla,Little Heron,Pelecaniformes,Ardeidae,,no,,,no,0
+Cacomantis passerinus,Gray-bellied Cuckoo,Cuculiformes,Cuculidae,,no,Schedule-II,Low,no,0
+Cacomantis sonneratii,Banded Bay Cuckoo,Cuculiformes,Cuculidae,,no,Schedule-II,Moderate,no,0
+Calandrella brachydactyla,Greater Short-toed Lark,Passeriformes,Alaudidae,,no,Schedule-II,Moderate,no,0
+Calandrella dukhunensis,Mongolian Short-toed Lark,Passeriformes,Alaudidae,,no,,,no,0
+Calcarius lapponicus,Lapland Longspur,Passeriformes,Calcariidae,,yes,,,no,0
+Calidris acuminata,Sharp-tailed Sandpiper,Charadriiformes,Scolopacidae,Vulnerable,yes,Schedule-II,,no,0
+Calidris alba,Sanderling,Charadriiformes,Scolopacidae,,no,Schedule-II,High,no,0
+Calidris alpina,Dunlin,Charadriiformes,Scolopacidae,Near-threatened,no,Schedule-II,High,no,0
+Calidris falcinellus,Broad-billed Sandpiper,Charadriiformes,Scolopacidae,Vulnerable,no,Schedule-II,Moderate,no,0
+Calidris ferruginea,Curlew Sandpiper,Charadriiformes,Scolopacidae,Vulnerable,no,Schedule-II,High,no,0
+Calidris minuta,Little Stint,Charadriiformes,Scolopacidae,,no,Schedule-II,High,no,0
+Calidris pugnax,Ruff,Charadriiformes,Scolopacidae,,no,Schedule-II,High,no,0
+Calidris ruficollis,Red-necked Stint,Charadriiformes,Scolopacidae,Near-threatened,no,,,no,0
+Calidris subminuta,Long-toed Stint,Charadriiformes,Scolopacidae,,no,,,no,0
+Calliope calliope,Siberian Rubythroat,Passeriformes,Muscicapidae,,no,Schedule-II,Low,no,0
+Calliope tschebaiewi,Chinese Rubythroat,Passeriformes,Muscicapidae,,no,,,no,0
+Caprimulgus affinis,Savanna Nightjar,Caprimulgiformes,Caprimulgidae,,no,Schedule-II,,no,0
+Caprimulgus asiaticus,Indian Nightjar,Caprimulgiformes,Caprimulgidae,,no,,,no,0
+Caprimulgus europaeus,Eurasian Nightjar,Caprimulgiformes,Caprimulgidae,,no,,,no,0
+Caprimulgus indicus,Jungle Nightjar,Caprimulgiformes,Caprimulgidae,,no,Schedule-II,,no,0
+Caprimulgus jotaka,Gray Nightjar,Caprimulgiformes,Caprimulgidae,,no,Schedule-II,,no,0
+Caprimulgus mahrattensis,Sykes's Nightjar,Caprimulgiformes,Caprimulgidae,,no,Schedule-II,,no,0
+Carduelis caniceps,Gray-crowned Goldfinch,Passeriformes,Fringillidae,,no,Schedule-II,Low,no,0
+Carpodacus puniceus,Red-fronted Rosefinch,Passeriformes,Fringillidae,,no,Schedule-II,,no,0
+Carpodacus rodopeplus,Spot-winged Rosefinch,Passeriformes,Fringillidae,,no,,,no,0
+Carpodacus roseus,Pallas's Rosefinch,Passeriformes,Fringillidae,,yes,,,no,0
+Carpodacus sillemi,Sillem's Rosefinch,Passeriformes,Fringillidae,,yes,,,no,0
+Carpodacus stoliczkae,Pale Rosefinch,Passeriformes,Fringillidae,,yes,,,no,0
+Carpodacus vinaceus,Vinaceous Rosefinch,Passeriformes,Fringillidae,,no,,,no,0
+Catreus wallichii,Cheer Pheasant,Galliformes,Phasianidae,Vulnerable,no,Schedule-I,High,yes,0
+Cecropis daurica,Eastern Red-rumped Swallow,Passeriformes,Hirundinidae,,no,Schedule-II,Low,no,0
+Cecropis rufula,European Red-rumped Swallow,Passeriformes,Hirundinidae,,no,,,no,0
+Centropus sinensis,Greater Coucal,Cuculiformes,Cuculidae,,no,Schedule-II,Low,no,0
+Cephalopyrus flammiceps,Fire-capped Tit,Passeriformes,Paridae,,no,Schedule-II,,no,0
+Cercotrichas galactotes,Rufous-tailed Scrub-Robin,Passeriformes,Muscicapidae,,no,Schedule-II,,no,0
+Ceryle rudis,Pied Kingfisher,Coraciiformes,Alcedinidae,,no,Schedule-II,Moderate,no,0
+Cettia brunnifrons,Gray-sided Bush Warbler,Passeriformes,Cettiidae,,no,Schedule-II,Low,no,0
+Cettia castaneocoronata,Chestnut-headed Tesia,Passeriformes,Cettiidae,,no,,,no,0
+Cettia cetti,Cetti's Warbler,Passeriformes,Cettiidae,,no,,,no,0
+Chalcophaps indica,Asian Emerald Dove,Columbiformes,Columbidae,,no,Schedule-II,Low,no,0
+Charadrius hiaticula,Common Ringed Plover,Charadriiformes,Charadriidae,,no,,,no,0
+Chlamydotis macqueenii,Asian Houbara,Otidiformes,Otididae,Vulnerable,no,Schedule-I,High,no,0
+Chlidonias leucopterus,White-winged Tern,Charadriiformes,Laridae,,no,Schedule-II,,no,0
+Chlidonias niger,Black Tern,Charadriiformes,Laridae,,yes,,,no,0
+Chloris chloris,European Greenfinch,Passeriformes,Fringillidae,,yes,Recent addition,,no,0
+Chroicocephalus genei,Slender-billed Gull,Charadriiformes,Laridae,,no,Schedule-II,High,no,0
+Chroicocephalus ridibundus,Black-headed Gull,Charadriiformes,Laridae,,no,Schedule-II,High,no,0
+Chrysomma sinense,Yellow-eyed Babbler,Passeriformes,Paradoxornithidae,,no,Schedule-II,Low,no,0
+Ciconia episcopus,Asian Woolly-necked Stork,Ciconiiformes,Ciconiidae,Near-threatened,yes,Schedule-II,Moderate,no,0
+Ciconia nigra,Black Stork,Ciconiiformes,Ciconiidae,,no,Schedule-II,Moderate,no,0
+Cinclus cinclus,White-throated Dipper,Passeriformes,Cinclidae,,no,Schedule-II,Low,no,0
+Cinclus pallasii,Brown Dipper,Passeriformes,Cinclidae,,no,Schedule-II,High,no,0
+Cinnyris asiaticus,Purple Sunbird,Passeriformes,Nectariniidae,,no,Schedule-II,Low,no,0
+Circaetus gallicus,Short-toed Snake-Eagle,Accipitriformes,Accipitridae,,no,Schedule-I,High,no,0
+Circus aeruginosus,Western Marsh Harrier,Accipitriformes,Accipitridae,,no,Schedule-I,High,no,0
+Circus cyaneus,Hen Harrier,Accipitriformes,Accipitridae,,no,Schedule-I,Moderate,no,0
+Circus macrourus,Pallid Harrier,Accipitriformes,Accipitridae,Near-threatened,no,Schedule-I,High,no,0
+Circus melanoleucos,Pied Harrier,Accipitriformes,Accipitridae,,no,,,no,0
+Circus pygargus,Montagu's Harrier,Accipitriformes,Accipitridae,,no,,,no,0
+Cisticola exilis,Golden-headed Cisticola,Passeriformes,Cisticolidae,,no,,,no,0
+Cisticola juncidis,Zitting Cisticola,Passeriformes,Cisticolidae,,no,Schedule-II,Low,no,0
+Clamator jacobinus,Pied Cuckoo,Cuculiformes,Cuculidae,,no,Schedule-II,Low,no,0
+Clanga clanga,Greater Spotted Eagle,Accipitriformes,Accipitridae,Vulnerable,no,Schedule-I,Low,no,0
+Clanga hastata,Indian Spotted Eagle,Accipitriformes,Accipitridae,Near-threatened,no,Schedule-I,Moderate,no,0
+Clangula hyemalis,Long-tailed Duck,Anseriformes,Anatidae,Vulnerable,yes,Schedule-II,,no,0
+Coccothraustes coccothraustes,Hawfinch,Passeriformes,Fringillidae,,no,Schedule-II,,no,0
+Columba eversmanni,Yellow-eyed Pigeon,Columbiformes,Columbidae,Vulnerable,no,,,no,0
+Columba hodgsonii,Speckled Wood-Pigeon,Columbiformes,Columbidae,,no,Schedule-II,Moderate,no,0
+Columba leuconota,Snow Pigeon,Columbiformes,Columbidae,,no,Schedule-II,Moderate,no,0
+Columba palumbus,Common Wood-Pigeon,Columbiformes,Columbidae,,no,Schedule-II,Moderate,no,0
+Copsychus fulicatus,Indian Robin,Passeriformes,Muscicapidae,,no,Schedule-II,Low,no,0
+Copsychus saularis,Oriental Magpie-Robin,Passeriformes,Muscicapidae,,no,Schedule-II,Low,no,0
+Coracias benghalensis,Indian Roller,Coraciiformes,Coraciidae,Near-threatened,no,Schedule-II,Moderate,no,0
+Coracias garrulus,European Roller,Coraciiformes,Coraciidae,,no,Schedule-II,Moderate,no,0
+Coracina javensis,Oriental Cuckooshrike,Passeriformes,Campephagidae,,no,Schedule-II,,no,0
+Corvus cornix,Hooded Crow,Passeriformes,Corvidae,,yes,Schedule-II,,no,0
+Corvus frugilegus,Rook,Passeriformes,Corvidae,,no,Schedule-II,,no,0
+Coturnix coromandelica,Rain Quail,Galliformes,Phasianidae,,no,,,no,0
+Coturnix coturnix,Common Quail,Galliformes,Phasianidae,,no,Schedule-II,,no,0
+Crex crex,Corn Crake,Gruiformes,Rallidae,,yes,,,no,0
+Cuculus micropterus,Indian Cuckoo,Cuculiformes,Cuculidae,,no,Schedule-II,Low,no,0
+Curruca communis,Greater Whitethroat,Passeriformes,Sylviidae,,no,Schedule-II,,no,0
+Curruca crassirostris,Eastern Orphean Warbler,Passeriformes,Sylviidae,,no,,,no,0
+Curruca mystacea,Menetries's Warbler,Passeriformes,Sylviidae,,yes,,,no,0
+Curruca nana,Asian Desert Warbler,Passeriformes,Sylviidae,,no,Schedule-II,,no,0
+Curruca nisoria,Barred Warbler,Passeriformes,Sylviidae,,no,,,no,0
+Cursorius coromandelicus,Indian Courser,Charadriiformes,Glareolidae,Near-threatened,no,,,no,0
+Cursorius cursor,Cream-colored Courser,Charadriiformes,Glareolidae,,no,,,no,0
+Cyanistes cyanus,Azure Tit,Passeriformes,Paridae,,no,,,no,0
+Cyanoderma pyrrhops,Black-chinned Babbler,Passeriformes,Timaliidae,,no,Schedule-II,Low,no,0
+Cygnus columbianus,Tundra Swan,Anseriformes,Anatidae,,yes,Schedule-II,,no,0
+Cygnus cygnus,Whooper Swan,Anseriformes,Anatidae,,no,Schedule-II,,no,0
+Cygnus olor,Mute Swan,Anseriformes,Anatidae,,no,,,no,0
+Cyornis glaucicomans,Chinese Blue Flycatcher,Passeriformes,Muscicapidae,,no,,,no,0
+Cyornis rubeculoides,Blue-throated Flycatcher,Passeriformes,Muscicapidae,,no,Schedule-II,Low,no,0
+Cyornis tickelliae,Tickell's Blue Flycatcher,Passeriformes,Muscicapidae,,no,Schedule-II,Low,no,0
+Delichon dasypus,Asian House-Martin,Passeriformes,Hirundinidae,,no,Schedule-II,Moderate,no,0
+Delichon urbicum,Western House-Martin,Passeriformes,Hirundinidae,,no,Schedule-II,,no,0
+Dendrocitta formosae,Gray Treepie,Passeriformes,Corvidae,,no,Schedule-II,Low,no,0
+Dendrocitta frontalis,Collared Treepie,Passeriformes,Corvidae,,no,,,no,0
+Dendrocitta vagabunda,Rufous Treepie,Passeriformes,Corvidae,,no,Schedule-II,Low,no,0
+Dendrocopos hyperythrus,Rufous-bellied Woodpecker,Piciformes,Picidae,,no,Schedule-II,Low,no,0
+Dendrocopos macei,Fulvous-breasted Woodpecker,Piciformes,Picidae,,no,Schedule-II,Low,no,0
+Dendrocygna javanica,Lesser Whistling-Duck,Anseriformes,Anatidae,,no,Schedule-II,Low,no,0
+Dendronanthus indicus,Forest Wagtail,Passeriformes,Motacillidae,,no,Schedule-I,High,no,0
+Dicaeum erythrorhynchos,Pale-billed Flowerpecker,Passeriformes,Dicaeidae,,no,Schedule-II,Low,no,0
+Dicaeum ignipectus,Fire-breasted Flowerpecker,Passeriformes,Dicaeidae,,no,Schedule-II,Low,no,0
+Dicrurus aeneus,Bronzed Drongo,Passeriformes,Dicruridae,,no,,,no,0
+Dicrurus annectens,Crow-billed Drongo,Passeriformes,Dicruridae,,no,,,no,0
+Dicrurus hottentottus,Hair-crested Drongo,Passeriformes,Dicruridae,,no,Schedule-II,Moderate,no,0
+Dicrurus macrocercus,Black Drongo,Passeriformes,Dicruridae,,no,Schedule-II,Low,no,0
+Dinopium benghalense,Black-rumped Flameback,Piciformes,Picidae,,no,Schedule-II,Low,no,0
+Dromas ardeola,Crab-Plover,Charadriiformes,Dromadidae,,no,,,no,0
+Dryobates cathpharius,Crimson-naped Woodpecker,Piciformes,Picidae,,no,,,no,0
+Egretta garzetta,Little Egret,Pelecaniformes,Ardeidae,,no,Schedule-II,Low,no,0
+Egretta gularis,Western Reef-Heron,Pelecaniformes,Ardeidae,,no,Schedule-II,High,no,0
+Elanus caeruleus,Black-winged Kite,Accipitriformes,Accipitridae,,no,Schedule-II,Moderate,no,0
+Emberiza aureola,Yellow-breasted Bunting,Passeriformes,Emberizidae,Critically endangered,no,Schedule-I,High,no,0
+Emberiza bruniceps,Red-headed Bunting,Passeriformes,Emberizidae,,no,Schedule-II,Low,no,0
+Emberiza buchanani,Gray-necked Bunting,Passeriformes,Emberizidae,,no,Schedule-II,Moderate,no,0
+Emberiza cioides,Meadow Bunting,Passeriformes,Emberizidae,,yes,,,no,0
+Emberiza citrinella,Yellowhammer,Passeriformes,Emberizidae,,no,Schedule-II,,no,0
+Emberiza godlewskii,Godlewski's Bunting,Passeriformes,Emberizidae,,no,,,no,0
+Emberiza hortulana,Ortolan Bunting,Passeriformes,Emberizidae,,no,Schedule-II,,no,0
+Emberiza lathami,Crested Bunting,Passeriformes,Emberizidae,,no,Schedule-II,Moderate,no,0
+Emberiza leucocephalos,Pine Bunting,Passeriformes,Emberizidae,,no,Schedule-II,,no,0
+Emberiza melanocephala,Black-headed Bunting,Passeriformes,Emberizidae,,no,Schedule-II,Low,no,0
+Emberiza pusilla,Little Bunting,Passeriformes,Emberizidae,,no,Schedule-II,Low,no,0
+Emberiza rustica,Rustic Bunting,Passeriformes,Emberizidae,Near-threatened,yes,Schedule-II,,no,0
+Emberiza rutila,Chestnut Bunting,Passeriformes,Emberizidae,,no,,,no,0
+Emberiza schoeniclus,Reed Bunting,Passeriformes,Emberizidae,,no,Schedule-II,,no,0
+Emberiza spodocephala,Black-faced Bunting,Passeriformes,Emberizidae,,no,,,no,0
+Emberiza striolata,Striolated Bunting,Passeriformes,Emberizidae,,no,Schedule-II,Low,no,0
+Enicurus scouleri,Little Forktail,Passeriformes,Muscicapidae,,no,Schedule-II,Moderate,no,0
+Eophona migratoria,Yellow-billed Grosbeak,Passeriformes,Fringillidae,,yes,,,no,0
+Ephippiorhynchus asiaticus,Black-necked Stork,Ciconiiformes,Ciconiidae,,no,Schedule-II,Moderate,no,0
+Eremophila alpestris,Horned Lark,Passeriformes,Alaudidae,,no,Schedule-II,Low,no,0
+Eremopterix griseus,Ashy-crowned Sparrow-Lark,Passeriformes,Alaudidae,,no,Schedule-II,Moderate,no,0
+Eremopterix nigriceps,Black-crowned Sparrow-Lark,Passeriformes,Alaudidae,,no,,,no,0
+Erythrogenys erythrogenys,Rusty-cheeked Scimitar-Babbler,Passeriformes,Timaliidae,,no,Schedule-II,Low,no,0
+Esacus recurvirostris,Great Thick-knee,Charadriiformes,Burhinidae,Near-threatened,no,Schedule-II,High,no,0
+Eudynamys scolopaceus,Asian Koel,Cuculiformes,Cuculidae,,no,Schedule-II,Low,no,0
+Eumyias thalassinus,Verditer Flycatcher,Passeriformes,Muscicapidae,,no,Schedule-II,Low,no,0
+Euodice malabarica,Indian Silverbill,Passeriformes,Estrildidae,,no,Schedule-II,Low,no,0
+Eurystomus orientalis,Dollarbird,Coraciiformes,Coraciidae,,no,,,no,0
+Falco amurensis,Amur Falcon,Falconiformes,Falconidae,,no,Schedule-I,Moderate,no,0
+Falco cherrug,Saker Falcon,Falconiformes,Falconidae,Endangered,no,Schedule-I,High,no,0
+Falco chicquera,Red-necked Falcon,Falconiformes,Falconidae,,no,Schedule-I,Moderate,no,0
+Falco columbarius,Merlin,Falconiformes,Falconidae,,no,Schedule-II,,no,0
+Falco jugger,Laggar Falcon,Falconiformes,Falconidae,Near-threatened,no,,,no,0
+Falco naumanni,Lesser Kestrel,Falconiformes,Falconidae,,no,Schedule-II,,no,0
+Falco peregrinus,Peregrine Falcon,Falconiformes,Falconidae,,no,Schedule-I,Low,no,0
+Falco severus,Oriental Hobby,Falconiformes,Falconidae,,no,Schedule-II,Moderate,no,0
+Falco tinnunculus,Eurasian Kestrel,Falconiformes,Falconidae,,no,Schedule-II,High,no,0
+Falco vespertinus,Red-footed Falcon,Falconiformes,Falconidae,Vulnerable,yes,,,no,0
+Ficedula albicilla,Taiga Flycatcher,Passeriformes,Muscicapidae,,yes,Schedule-II,,no,0
+Ficedula erithacus,Slaty-backed Flycatcher,Passeriformes,Muscicapidae,,no,,,no,0
+Ficedula hyperythra,Snowy-browed Flycatcher,Passeriformes,Muscicapidae,,no,,,no,0
+Ficedula parva,Red-breasted Flycatcher,Passeriformes,Muscicapidae,,no,Schedule-II,Low,no,0
+Ficedula strophiata,Rufous-gorgeted Flycatcher,Passeriformes,Muscicapidae,,no,Schedule-II,High,no,0
+Ficedula westermanni,Little Pied Flycatcher,Passeriformes,Muscicapidae,,no,,,no,0
+Fringilla coelebs,Common Chaffinch,Passeriformes,Fringillidae,,no,Schedule-II,,no,0
+Fringilla montifringilla,Brambling,Passeriformes,Fringillidae,,no,Schedule-II,,no,0
+Fulica atra,Eurasian Coot,Gruiformes,Rallidae,,no,Schedule-II,Low,no,0
+Fulvetta vinipectus,White-browed Fulvetta,Passeriformes,Paradoxornithidae,,no,,,no,0
+Gallicrex cinerea,Watercock,Gruiformes,Rallidae,,no,,,no,0
+Gallinago gallinago,Common Snipe,Charadriiformes,Scolopacidae,,no,Schedule-II,Low,no,0
+Gallinago solitaria,Solitary Snipe,Charadriiformes,Scolopacidae,,no,Schedule-II,,no,0
+Gallinago stenura,Pin-tailed Snipe,Charadriiformes,Scolopacidae,,no,Schedule-II,High,no,0
+Garrulax leucolophus,White-crested Laughingthrush,Passeriformes,Leiothrichidae,,no,Schedule-II,Low,no,0
+Garrulus lanceolatus,Black-headed Jay,Passeriformes,Corvidae,,no,Schedule-II,Moderate,no,0
+Gelochelidon nilotica,Gull-billed Tern,Charadriiformes,Laridae,,no,Schedule-I,High,no,0
+Geokichla citrina,Orange-headed Thrush,Passeriformes,Turdidae,,no,Schedule-II,Moderate,no,0
+Geokichla wardii,Pied Thrush,Passeriformes,Turdidae,,no,,,no,0
+Glareola lactea,Small Pratincole,Charadriiformes,Glareolidae,,no,Schedule-II,Moderate,no,0
+Glareola maldivarum,Oriental Pratincole,Charadriiformes,Glareolidae,,no,Schedule-II,Low,no,0
+Glareola pratincola,Collared Pratincole,Charadriiformes,Glareolidae,,no,Schedule-II,,no,0
+Glaucidium cuculoides,Asian Barred Owlet,Strigiformes,Strigidae,,no,Schedule-II,Low,no,0
+Glaucidium radiatum,Jungle Owlet,Strigiformes,Strigidae,,no,,,no,0
+Gracupica contra,Indian Pied Starling,Passeriformes,Sturnidae,,no,Schedule-II,Low,no,0
+Grammatoptila striata,Striated Laughingthrush,Passeriformes,Leiothrichidae,,no,,,no,0
+Grandala coelicolor,Grandala,Passeriformes,Turdidae,,no,Schedule-II,Moderate,no,0
+Grus grus,Common Crane,Gruiformes,Gruidae,,no,Schedule-I,High,no,0
+Grus virgo,Demoiselle Crane,Gruiformes,Gruidae,,no,,,no,0
+Gymnoris xanthocollis,Yellow-throated Sparrow,Passeriformes,Passeridae,,no,Schedule-II,Low,no,0
+Gypaetus barbatus,Bearded Vulture,Accipitriformes,Accipitridae,Near-threatened,no,Schedule-I,High,no,0
+Gyps fulvus,Eurasian Griffon,Accipitriformes,Accipitridae,,no,Schedule-I,High,no,0
+Gyps himalayensis,Himalayan Griffon,Accipitriformes,Accipitridae,Near-threatened,no,Schedule-I,Moderate,no,0
+Gyps tenuirostris,Slender-billed Vulture,Accipitriformes,Accipitridae,Critically endangered,no,,,no,0
+Haematopus ostralegus,Eurasian Oystercatcher,Charadriiformes,Haematopodidae,Near-threatened,no,Schedule-II,High,no,0
+Halcyon smyrnensis,White-throated Kingfisher,Coraciiformes,Alcedinidae,,no,Schedule-II,Low,no,0
+Haliaeetus albicilla,White-tailed Eagle,Accipitriformes,Accipitridae,,no,Schedule-I,,no,0
+Haliaeetus leucoryphus,Pallas's Fish-Eagle,Accipitriformes,Accipitridae,Endangered,no,Schedule-I,High,no,0
+Haliastur indus,Brahminy Kite,Accipitriformes,Accipitridae,,no,Schedule-I,Low,no,0
+Hemiprocne coronata,Crested Treeswift,Apodiformes,Hemiprocnidae,,no,,,no,0
+Heterophasia capistrata,Rufous Sibia,Passeriformes,Leiothrichidae,,no,Schedule-II,Low,no,0
+Hieraaetus pennatus,Booted Eagle,Accipitriformes,Accipitridae,,no,Schedule-I,Low,no,0
+Hierococcyx sparverioides,Large Hawk-Cuckoo,Cuculiformes,Cuculidae,,no,,,no,0
+Hierococcyx varius,Common Hawk-Cuckoo,Cuculiformes,Cuculidae,,no,Schedule-II,Low,no,0
+Himantopus himantopus,Black-winged Stilt,Charadriiformes,Recurvirostridae,,no,Schedule-II,Low,no,0
+Hippolais icterina,Icterine Warbler,Passeriformes,Acrocephalidae,,yes,,,no,0
+Hirundapus caudacutus,White-throated Needletail,Apodiformes,Apodidae,,no,Schedule-II,,no,0
+Hirundo rustica,Barn Swallow,Passeriformes,Hirundinidae,,no,Schedule-II,Moderate,no,0
+Hirundo smithii,Wire-tailed Swallow,Passeriformes,Hirundinidae,,no,Schedule-II,Low,no,0
+Horornis brunnescens,Hume's Bush Warbler,Passeriformes,Cettiidae,,no,,,no,0
+Hydrocoloeus minutus,Little Gull,Charadriiformes,Laridae,,yes,,,no,0
+Hydrophasianus chirurgus,Pheasant-tailed Jacana,Charadriiformes,Jacanidae,,no,Schedule-II,Moderate,no,0
+Hypothymis azurea,Black-naped Monarch,Passeriformes,Monarchidae,,no,Schedule-II,Low,no,0
+Ianthocincla rufogularis,Rufous-chinned Laughingthrush,Passeriformes,Leiothrichidae,,no,Schedule-II,Moderate,no,0
+Ichthyaetus ichthyaetus,Pallas's Gull,Charadriiformes,Laridae,,no,Schedule-II,Moderate,no,0
+Icthyophaga humilis,Lesser Fish-Eagle,Accipitriformes,Accipitridae,Near-threatened,no,Schedule-I,Low,no,0
+Icthyophaga ichthyaetus,Gray-headed Fish-Eagle,Accipitriformes,Accipitridae,Near-threatened,no,,,no,0
+Ictinaetus malaiensis,Black Eagle,Accipitriformes,Accipitridae,,no,Schedule-I,Low,no,0
+Iduna caligata,Booted Warbler,Passeriformes,Acrocephalidae,,no,Schedule-II,Low,no,0
+Iduna rama,Sykes's Warbler,Passeriformes,Acrocephalidae,,no,Schedule-II,,no,0
+Indicator xanthonotus,Yellow-rumped Honeyguide,Piciformes,Indicatoridae,,no,,,no,0
+Ketupa coromanda,Dusky Eagle-Owl,Strigiformes,Strigidae,,no,,,no,0
+Ketupa flavipes,Tawny Fish-Owl,Strigiformes,Strigidae,,no,,,no,0
+Ketupa nipalensis,Spot-bellied Eagle-Owl,Strigiformes,Strigidae,,no,,,no,0
+Ketupa zeylonensis,Brown Fish-Owl,Strigiformes,Strigidae,,no,Schedule-I,Moderate,no,0
+Lalage melanoptera,Black-headed Cuckooshrike,Passeriformes,Campephagidae,,no,Schedule-II,Low,no,0
+Lalage melaschistos,Black-winged Cuckooshrike,Passeriformes,Campephagidae,,no,Schedule-II,Low,no,0
+Lanius collurio,Red-backed Shrike,Passeriformes,Laniidae,,no,,,no,0
+Lanius cristatus,Brown Shrike,Passeriformes,Laniidae,,no,Schedule-II,Low,no,0
+Lanius excubitor,Great Gray Shrike,Passeriformes,Laniidae,,no,Schedule-II,High,no,0
+Lanius isabellinus,Isabelline Shrike,Passeriformes,Laniidae,,no,Schedule-II,High,no,0
+Lanius minor,Lesser Gray Shrike,Passeriformes,Laniidae,,yes,Schedule-II,,no,0
+Lanius nubicus,Masked Shrike,Passeriformes,Laniidae,,yes,,,no,0
+Lanius phoenicuroides,Red-tailed Shrike,Passeriformes,Laniidae,,no,,,no,0
+Lanius schach,Long-tailed Shrike,Passeriformes,Laniidae,,no,Schedule-II,Low,no,0
+Lanius tephronotus,Gray-backed Shrike,Passeriformes,Laniidae,,no,Schedule-II,Low,no,0
+Lanius vittatus,Bay-backed Shrike,Passeriformes,Laniidae,,no,Schedule-II,Low,no,0
+Larus cachinnans,Caspian Gull,Charadriiformes,Laridae,,no,Schedule-II,,no,0
+Larus canus,Common Gull,Charadriiformes,Laridae,,yes,Schedule-II,,no,0
+Larus fuscus,Lesser Black-backed Gull,Charadriiformes,Laridae,,no,Schedule-II,Moderate,no,0
+Laticilla burnesii,Rufous-vented Grass Babbler,Passeriformes,Pellorneidae,Near-threatened,no,Schedule-I,Moderate,no,0
+Leiopicus mahrattensis,Yellow-crowned Woodpecker,Piciformes,Picidae,,no,Schedule-I,High,no,0
+Leiothrix lutea,Red-billed Leiothrix,Passeriformes,Leiothrichidae,,no,Schedule-II,Low,no,0
+Lerwa lerwa,Snow Partridge,Galliformes,Phasianidae,,no,Schedule-II,,no,0
+Leucogeranus leucogeranus,Siberian Crane,Gruiformes,Gruidae,Critically endangered,no,,,no,0
+Limosa lapponica,Bar-tailed Godwit,Charadriiformes,Scolopacidae,Near-threatened,no,,,no,0
+Limosa limosa,Black-tailed Godwit,Charadriiformes,Scolopacidae,Near-threatened,no,Schedule-II,High,no,0
+Linaria cannabina,Eurasian Linnet,Passeriformes,Fringillidae,,no,,,no,0
+Locustella lanceolata,Lanceolated Warbler,Passeriformes,Locustellidae,,no,,,no,0
+Locustella naevia,Common Grasshopper Warbler,Passeriformes,Locustellidae,,no,Schedule-II,,no,0
+Lonchura malacca,Tricolored Munia,Passeriformes,Estrildidae,,yes,Schedule-II,Low,no,0
+Lonchura punctulata,Scaly-breasted Munia,Passeriformes,Estrildidae,,no,Schedule-II,Low,no,0
+Lonchura striata,White-rumped Munia,Passeriformes,Estrildidae,,no,,,no,0
+Lophophanes dichrous,Gray-crested Tit,Passeriformes,Paridae,,no,,,no,0
+Lophophorus impejanus,Himalayan Monal,Galliformes,Phasianidae,,no,Schedule-I,Low,no,0
+Lophura leucomelanos,Kalij Pheasant,Galliformes,Phasianidae,,no,Schedule-I,Low,no,0
+Loxia curvirostra,Red Crossbill,Passeriformes,Fringillidae,,no,Schedule-II,,no,0
+Lymnocryptes minimus,Jack Snipe,Charadriiformes,Scolopacidae,,no,Schedule-II,,no,0
+Machlolophus xanthogenys,Himalayan Black-lored Tit,Passeriformes,Paridae,,no,Schedule-II,Low,no,0
+Macropygia unchall,Barred Cuckoo-Dove,Columbiformes,Columbidae,,no,,,no,0
+Mareca falcata,Falcated Duck,Anseriformes,Anatidae,,no,Schedule-II,Moderate,no,0
+Mareca penelope,Eurasian Wigeon,Anseriformes,Anatidae,,no,Schedule-II,Moderate,no,0
+Mareca strepera,Gadwall,Anseriformes,Anatidae,,no,Schedule-II,Moderate,no,0
+Marmaronetta angustirostris,Marbled Duck,Anseriformes,Anatidae,Near-threatened,no,Schedule-I,High,no,0
+Megaceryle lugubris,Crested Kingfisher,Coraciiformes,Alcedinidae,,no,Schedule-II,Moderate,no,0
+Megalurus palustris,Striated Grassbird,Passeriformes,Locustellidae,,no,Schedule-II,Low,no,0
+Melanocorypha bimaculata,Bimaculated Lark,Passeriformes,Alaudidae,,no,Schedule-II,,no,0
+Melanocorypha calandra,Calandra Lark,Passeriformes,Alaudidae,,yes,,,no,0
+Mergellus albellus,Smew,Anseriformes,Anatidae,,no,Schedule-II,,no,0
+Merops apiaster,European Bee-eater,Coraciiformes,Meropidae,,no,Schedule-II,,no,0
+Merops leschenaulti,Chestnut-headed Bee-eater,Coraciiformes,Meropidae,,no,Schedule-II,Low,no,0
+Merops orientalis,Asian Green Bee-eater,Coraciiformes,Meropidae,,no,Schedule-II,Low,no,0
+Merops persicus,Blue-cheeked Bee-eater,Coraciiformes,Meropidae,,no,,,no,0
+Merops philippinus,Blue-tailed Bee-eater,Coraciiformes,Meropidae,,no,Schedule-II,Low,no,0
+Metopidius indicus,Bronze-winged Jacana,Charadriiformes,Jacanidae,,no,,,no,0
+Microcarbo niger,Little Cormorant,Suliformes,Phalacrocoracidae,,no,Schedule-II,Low,no,0
+Milvus milvus,Red Kite,Accipitriformes,Accipitridae,,no,,,no,0
+Mirafra javanica,Singing Bushlark,Passeriformes,Alaudidae,,no,Schedule-II,Moderate,no,0
+Monticola rufiventris,Chestnut-bellied Rock-Thrush,Passeriformes,Muscicapidae,,no,Schedule-II,Moderate,no,0
+Monticola saxatilis,Rufous-tailed Rock-Thrush,Passeriformes,Muscicapidae,,no,Schedule-II,,no,0
+Motacilla flava,Western Yellow Wagtail,Passeriformes,Motacillidae,,no,Schedule-II,Moderate,no,0
+Motacilla maderaspatensis,White-browed Wagtail,Passeriformes,Motacillidae,,no,Schedule-II,Low,no,0
+Motacilla tschutschensis,Eastern Yellow Wagtail,Passeriformes,Motacillidae,,yes,,,no,0
+Muscicapa dauurica,Asian Brown Flycatcher,Passeriformes,Muscicapidae,,no,Schedule-II,Low,no,0
+Muscicapa ferruginea,Ferruginous Flycatcher,Passeriformes,Muscicapidae,,no,,,no,0
+Muscicapa striata,Spotted Flycatcher,Passeriformes,Muscicapidae,,no,Schedule-II,,no,0
+Mycerobas affinis,Collared Grosbeak,Passeriformes,Fringillidae,,no,Schedule-II,Moderate,no,0
+Mycerobas carnipes,White-winged Grosbeak,Passeriformes,Fringillidae,,no,Schedule-II,,no,0
+Mycteria leucocephala,Painted Stork,Ciconiiformes,Ciconiidae,,no,Schedule-II,Low,no,0
+Neophron percnopterus,Egyptian Vulture,Accipitriformes,Accipitridae,Endangered,no,Schedule-I,High,no,0
+Netta rufina,Red-crested Pochard,Anseriformes,Anatidae,,no,Schedule-II,Low,no,0
+Nettapus coromandelianus,Cotton Pygmy-Goose,Anseriformes,Anatidae,,no,Schedule-I,Moderate,no,0
+Niltava sundara,Rufous-bellied Niltava,Passeriformes,Muscicapidae,,no,Schedule-II,Low,no,0
+Nisaetus cirrhatus,Changeable Hawk-Eagle,Accipitriformes,Accipitridae,,no,,,no,0
+Nisaetus nipalensis,Mountain Hawk-Eagle,Accipitriformes,Accipitridae,,no,Schedule-I,Low,no,0
+Nucifraga hemispila,Southern Nutcracker,Passeriformes,Corvidae,,no,,,no,0
+Numenius arquata,Eurasian Curlew,Charadriiformes,Scolopacidae,Near-threatened,no,Schedule-II,High,no,0
+Numenius phaeopus,Eurasian Whimbrel,Charadriiformes,Scolopacidae,,no,Schedule-II,Moderate,no,0
+Nycticorax nycticorax,Black-crowned Night Heron,Pelecaniformes,Ardeidae,,no,Schedule-II,Low,no,0
+Ocyceros birostris,Indian Gray Hornbill,Bucerotiformes,Bucerotidae,,no,Schedule-II,Low,no,0
+Oenanthe albonigra,Hume's Wheatear,Passeriformes,Muscicapidae,,no,,,no,0
+Oenanthe chrysopygia,Persian Wheatear,Passeriformes,Muscicapidae,,no,Schedule-II,,no,0
+Oenanthe fusca,Brown Rock Chat,Passeriformes,Muscicapidae,,no,Schedule-II,Low,no,0
+Oenanthe isabellina,Isabelline Wheatear,Passeriformes,Muscicapidae,,no,Schedule-II,High,no,0
+Oenanthe oenanthe,Northern Wheatear,Passeriformes,Muscicapidae,,no,Schedule-II,,no,0
+Oenanthe picata,Variable Wheatear,Passeriformes,Muscicapidae,,no,Schedule-II,High,no,0
+Oenanthe pleschanka,Pied Wheatear,Passeriformes,Muscicapidae,,no,Schedule-II,,no,0
+Onychostruthus taczanowskii,White-rumped Snowfinch,Passeriformes,Passeridae,,no,,,no,0
+Oriolus oriolus,Eurasian Golden Oriole,Passeriformes,Oriolidae,,no,,,no,0
+Oriolus xanthornus,Black-hooded Oriole,Passeriformes,Oriolidae,,no,,,no,0
+Orthotomus sutorius,Common Tailorbird,Passeriformes,Cisticolidae,,no,Schedule-II,Low,no,0
+Ortygornis pondicerianus,Gray Francolin,Galliformes,Phasianidae,,no,Schedule-II,Low,no,0
+Otus bakkamoena,Indian Scops-Owl,Strigiformes,Strigidae,,no,Schedule-II,,no,0
+Otus brucei,Pallid Scops-Owl,Strigiformes,Strigidae,,no,,,no,0
+Otus lettia,Collared Scops-Owl,Strigiformes,Strigidae,,no,Schedule-II,,no,0
+Otus scops,Eurasian Scops-Owl,Strigiformes,Strigidae,,no,Schedule-II,,no,0
+Otus spilocephalus,Mountain Scops-Owl,Strigiformes,Strigidae,,no,Schedule-II,,no,0
+Oxyura leucocephala,White-headed Duck,Anseriformes,Anatidae,Endangered,no,Schedule-I,,no,0
+Pachyglossa agilis,Thick-billed Flowerpecker,Passeriformes,Dicaeidae,,no,Schedule-II,High,no,0
+Pandion haliaetus,Osprey,Accipitriformes,Pandionidae,,no,Schedule-I,High,no,0
+Passer hispaniolensis,Spanish Sparrow,Passeriformes,Passeridae,,no,Schedule-II,,no,0
+Passer montanus,Eurasian Tree Sparrow,Passeriformes,Passeridae,,no,,,no,0
+Passer pyrrhonotus,Sind Sparrow,Passeriformes,Passeridae,,no,Schedule-II,Low,no,0
+Pastor roseus,Rosy Starling,Passeriformes,Sturnidae,,no,Schedule-II,Moderate,no,0
+Pavo cristatus,Indian Peafowl,Galliformes,Phasianidae,,no,Schedule-I,Low,no,0
+Pelecanus crispus,Dalmatian Pelican,Pelecaniformes,Pelecanidae,Near-threatened,no,,,no,0
+Pellorneum ruficeps,Puff-throated Babbler,Passeriformes,Pellorneidae,,no,Schedule-II,Low,no,0
+Perdicula asiatica,Jungle Bush-Quail,Galliformes,Phasianidae,,no,Schedule-II,Low,no,0
+Perdix hodgsoniae,Tibetan Partridge,Galliformes,Phasianidae,,no,,,no,0
+Pericrocotus cinnamomeus,Small Minivet,Passeriformes,Campephagidae,,no,Schedule-I,Low,no,0
+Pericrocotus flammeus,Orange Minivet,Passeriformes,Campephagidae,,no,,,no,0
+Pericrocotus roseus,Rosy Minivet,Passeriformes,Campephagidae,,no,Schedule-II,Low,no,0
+Pericrocotus speciosus,Scarlet Minivet,Passeriformes,Campephagidae,,no,,,no,0
+Periparus rubidiventris,Rufous-vented Tit,Passeriformes,Paridae,,no,Schedule-II,High,no,0
+Pernis ptilorhynchus,Oriental Honey-buzzard,Accipitriformes,Accipitridae,,no,Schedule-II,Low,no,0
+Petronia petronia,Rock Sparrow,Passeriformes,Passeridae,,no,,,no,0
+Phalacrocorax carbo,Great Cormorant,Suliformes,Phalacrocoracidae,,no,Schedule-II,Low,no,0
+Phalacrocorax fuscicollis,Indian Cormorant,Suliformes,Phalacrocoracidae,,no,,,no,0
+Phalaropus lobatus,Red-necked Phalarope,Charadriiformes,Scolopacidae,,no,Schedule-II,,no,0
+Phoenicopterus roseus,Greater Flamingo,Phoenicopteriformes,Phoenicopteridae,,no,,,no,0
+Phoenicurus auroreus,Daurian Redstart,Passeriformes,Muscicapidae,,no,,,no,0
+Phoenicurus coeruleocephala,Blue-capped Redstart,Passeriformes,Muscicapidae,,no,Schedule-II,Moderate,no,0
+Phoenicurus erythronotus,Rufous-backed Redstart,Passeriformes,Muscicapidae,,no,Schedule-II,,no,0
+Phoenicurus frontalis,Blue-fronted Redstart,Passeriformes,Muscicapidae,,no,Schedule-II,Moderate,no,0
+Phoenicurus hodgsoni,Hodgson's Redstart,Passeriformes,Muscicapidae,,no,,,no,0
+Phoenicurus phoenicurus,Common Redstart,Passeriformes,Muscicapidae,,yes,Schedule-II,,no,0
+Phylloscopus borealis,Arctic Warbler,Passeriformes,Phylloscopidae,,yes,,,no,0
+Phylloscopus burkii,Green-crowned Warbler,Passeriformes,Phylloscopidae,,no,,,no,0
+Phylloscopus collybita,Common Chiffchaff,Passeriformes,Phylloscopidae,,no,Schedule-II,Low,no,0
+Phylloscopus fuscatus,Dusky Warbler,Passeriformes,Phylloscopidae,,yes,,,no,0
+Phylloscopus inornatus,Yellow-browed Warbler,Passeriformes,Phylloscopidae,,no,,,no,0
+Phylloscopus maculipennis,Ashy-throated Warbler,Passeriformes,Phylloscopidae,,no,Schedule-II,Moderate,no,0
+Phylloscopus neglectus,Plain Leaf Warbler,Passeriformes,Phylloscopidae,,no,,,no,0
+Phylloscopus nitidus,Green Warbler,Passeriformes,Phylloscopidae,,no,Schedule-II,,no,0
+Phylloscopus proregulus,Pallas's Leaf Warbler,Passeriformes,Phylloscopidae,,yes,,,no,0
+Phylloscopus sibilatrix,Wood Warbler,Passeriformes,Phylloscopidae,,yes,,,no,0
+Phylloscopus subviridis,Brooks's Leaf Warbler,Passeriformes,Phylloscopidae,,no,,,no,0
+Phylloscopus trochilus,Willow Warbler,Passeriformes,Phylloscopidae,,yes,,,no,0
+Phylloscopus whistleri,Whistler's Warbler,Passeriformes,Phylloscopidae,,no,Schedule-II,Low,no,0
+Picumnus innominatus,Speckled Piculet,Piciformes,Picidae,,no,Schedule-II,Low,no,0
+Picus canus,Gray-headed Woodpecker,Piciformes,Picidae,,no,Schedule-II,Low,no,0
+Picus xanthopygaeus,Streak-throated Woodpecker,Piciformes,Picidae,,no,Schedule-II,Low,no,0
+Pitta brachyura,Indian Pitta,Passeriformes,Pittidae,,no,Schedule-II,Low,no,0
+Platalea leucorodia,Eurasian Spoonbill,Pelecaniformes,Threskiornithidae,,no,Schedule-I,High,no,0
+Plegadis falcinellus,Glossy Ibis,Pelecaniformes,Threskiornithidae,,no,Schedule-II,Low,no,0
+Plocealauda assamica,Bengal Bushlark,Passeriformes,Alaudidae,,no,Schedule-II,Low,no,0
+Plocealauda erythroptera,Indian Bushlark,Passeriformes,Alaudidae,,yes,Schedule-II,Moderate,no,0
+Ploceus benghalensis,Black-breasted Weaver,Passeriformes,Ploceidae,,no,Schedule-II,Low,no,0
+Ploceus manyar,Streaked Weaver,Passeriformes,Ploceidae,,no,Schedule-II,Moderate,no,0
+Ploceus philippinus,Baya Weaver,Passeriformes,Ploceidae,,no,Schedule-II,Low,no,0
+Pluvialis fulva,Pacific Golden-Plover,Charadriiformes,Charadriidae,,no,Schedule-I,Moderate,no,0
+Pluvialis squatarola,Black-bellied Plover,Charadriiformes,Charadriidae,Vulnerable,no,Schedule-II,High,no,0
+Pnoepyga albiventer,Scaly-breasted Cupwing,Passeriformes,Pnoepygidae,,no,Schedule-II,Low,no,0
+Podiceps auritus,Horned Grebe,Podicipediformes,Podicipedidae,Vulnerable,no,Schedule-II,,no,0
+Podiceps cristatus,Great Crested Grebe,Podicipediformes,Podicipedidae,,no,Schedule-II,High,no,0
+Podiceps grisegena,Red-necked Grebe,Podicipediformes,Podicipedidae,,no,,,no,0
+Podiceps nigricollis,Eared Grebe,Podicipediformes,Podicipedidae,,no,Schedule-II,,no,0
+Pomatorhinus horsfieldii,Indian Scimitar-Babbler,Passeriformes,Timaliidae,,no,,,no,0
+Pomatorhinus schisticeps,White-browed Scimitar-Babbler,Passeriformes,Timaliidae,,no,Schedule-II,Low,no,0
+Porphyrio poliocephalus,Gray-headed Swamphen,Gruiformes,Rallidae,,no,Schedule-II,Low,no,0
+Porzana porzana,Spotted Crake,Gruiformes,Rallidae,,no,Schedule-II,,no,0
+Prinia buchanani,Rufous-fronted Prinia,Passeriformes,Cisticolidae,,no,,,no,0
+Prinia cinereocapilla,Gray-crowned Prinia,Passeriformes,Cisticolidae,Vulnerable,no,,,no,0
+Prinia flaviventris,Yellow-bellied Prinia,Passeriformes,Cisticolidae,,no,Schedule-II,Low,no,0
+Prinia hodgsonii,Gray-breasted Prinia,Passeriformes,Cisticolidae,,no,Schedule-II,Low,no,0
+Prinia inornata,Plain Prinia,Passeriformes,Cisticolidae,,no,Schedule-II,Low,no,0
+Prinia lepida,Delicate Prinia,Passeriformes,Cisticolidae,,no,Schedule-II,Low,no,0
+Prinia socialis,Ashy Prinia,Passeriformes,Cisticolidae,,no,Schedule-II,Low,no,0
+Prinia sylvatica,Jungle Prinia,Passeriformes,Cisticolidae,,no,Schedule-II,Low,no,0
+Procarduelis nipalensis,Dark-breasted Rosefinch,Passeriformes,Fringillidae,,no,Schedule-II,Low,no,0
+Prunella atrogularis,Black-throated Accentor,Passeriformes,Prunellidae,,no,Schedule-II,,no,0
+Prunella collaris,Alpine Accentor,Passeriformes,Prunellidae,,no,Schedule-II,Low,no,0
+Prunella himalayana,Altai Accentor,Passeriformes,Prunellidae,,no,Schedule-II,Moderate,no,0
+Prunella immaculata,Maroon-backed Accentor,Passeriformes,Prunellidae,,no,,,no,0
+Psarisomus dalhousiae,Long-tailed Broadbill,Passeriformes,Eurylaimidae,,no,,,no,0
+Pseudibis papillosa,Red-naped Ibis,Pelecaniformes,Threskiornithidae,,no,Schedule-II,Low,no,0
+Psilopogon haemacephalus,Coppersmith Barbet,Piciformes,Megalaimidae,,no,Schedule-II,Low,no,0
+Psilopogon lineatus,Lineated Barbet,Piciformes,Megalaimidae,,no,Schedule-II,Low,no,0
+Psilopogon zeylanicus,Brown-headed Barbet,Piciformes,Megalaimidae,,no,Schedule-II,Low,no,0
+Psittacula alexandri,Red-breasted Parakeet,Psittaciformes,Psittaculidae,Near-threatened,no,,,no,0
+Psittacula cyanocephala,Plum-headed Parakeet,Psittaciformes,Psittaculidae,,no,Schedule-II,Low,no,0
+Psittacula eupatria,Alexandrine Parakeet,Psittaciformes,Psittaculidae,,no,Schedule-II,Low,no,0
+Psittacula roseata,Blossom-headed Parakeet,Psittaciformes,Psittaculidae,Near-threatened,no,,,no,0
+Pterocles alchata,Pin-tailed Sandgrouse,Pterocliformes,Pteroclidae,,no,,,no,0
+Pterocles exustus,Chestnut-bellied Sandgrouse,Pterocliformes,Pteroclidae,,no,Schedule-II,Low,no,0
+Pterocles indicus,Painted Sandgrouse,Pterocliformes,Pteroclidae,,no,,,no,0
+Pterocles orientalis,Black-bellied Sandgrouse,Pterocliformes,Pteroclidae,,no,,,no,0
+Pterorhinus albogularis,White-throated Laughingthrush,Passeriformes,Leiothrichidae,,no,Schedule-II,Low,no,0
+Pteruthius aeralatus,White-browed Shrike-Babbler,Passeriformes,Vireonidae,,no,Schedule-II,Low,no,0
+Pteruthius xanthochlorus,Green Shrike-Babbler,Passeriformes,Vireonidae,,no,Schedule-II,Low,no,0
+Pycnonotus cafer,Red-vented Bulbul,Passeriformes,Pycnonotidae,,no,Schedule-II,Low,no,0
+Pycnonotus leucotis,White-eared Bulbul,Passeriformes,Pycnonotidae,,no,,,no,0
+Pyrgilauda ruficollis,Rufous-necked Snowfinch,Passeriformes,Passeridae,,yes,,,no,0
+Pyrrhoplectes epauletta,Gold-naped Finch,Passeriformes,Fringillidae,,no,,,no,0
+Pyrrhula erythrocephala,Red-headed Bullfinch,Passeriformes,Fringillidae,,no,Schedule-II,Low,no,0
+Recurvirostra avosetta,Pied Avocet,Charadriiformes,Recurvirostridae,,no,Schedule-II,High,no,0
+Remiz coronatus,White-crowned Penduline-Tit,Passeriformes,Remizidae,,no,,,no,0
+Rhipidura albicollis,White-throated Fantail,Passeriformes,Rhipiduridae,,no,Schedule-II,Low,no,0
+Rhipidura aureola,White-browed Fantail,Passeriformes,Rhipiduridae,,no,Schedule-II,Moderate,no,0
+Rhodopechys sanguineus,Crimson-winged Finch,Passeriformes,Fringillidae,,yes,,,no,0
+Rhodospiza obsoleta,Desert Finch,Passeriformes,Fringillidae,,yes,,,no,0
+Riparia chinensis,Gray-throated Martin,Passeriformes,Hirundinidae,,no,Schedule-II,Moderate,no,0
+Riparia diluta,Pale Martin,Passeriformes,Hirundinidae,,no,Schedule-II,,no,0
+Riparia riparia,Bank Swallow,Passeriformes,Hirundinidae,,no,Schedule-II,Low,no,0
+Rissa tridactyla,Black-legged Kittiwake,Charadriiformes,Laridae,Vulnerable,yes,,,no,0
+Rostratula benghalensis,Greater Painted-Snipe,Charadriiformes,Rostratulidae,,no,Schedule-II,Low,no,0
+Sarcogyps calvus,Red-headed Vulture,Accipitriformes,Accipitridae,Critically endangered,yes,,,no,0
+Sarkidiornis melanotos,Knob-billed Duck,Anseriformes,Anatidae,,no,Schedule-II,Low,no,0
+Saroglossa spilopterus,Spot-winged Starling,Passeriformes,Sturnidae,,no,Schedule-II,High,no,0
+Saxicola caprata,Pied Bushchat,Passeriformes,Muscicapidae,,no,Schedule-II,Low,no,0
+Saxicola leucurus,White-tailed Stonechat,Passeriformes,Muscicapidae,,no,Schedule-II,Low,no,0
+Saxicola macrorhynchus,White-browed Bushchat,Passeriformes,Muscicapidae,Vulnerable,yes,,,no,0
+Saxicola rubetra,Whinchat,Passeriformes,Muscicapidae,,yes,,,no,0
+Schoenicola striatus,Bristled Grassbird,Passeriformes,Locustellidae,Vulnerable,no,Schedule-I,High,no,0
+Scolopax rusticola,Eurasian Woodcock,Charadriiformes,Scolopacidae,,no,Schedule-II,,no,0
+Sibirionetta formosa,Baikal Teal,Anseriformes,Anatidae,,yes,Schedule-II,,no,0
+Sitta cinnamoventris,Chestnut-bellied Nuthatch,Passeriformes,Sittidae,,no,Schedule-II,Low,no,0
+Sitta himalayensis,White-tailed Nuthatch,Passeriformes,Sittidae,,no,,,no,0
+Spatula clypeata,Northern Shoveler,Anseriformes,Anatidae,,no,Schedule-II,High,no,0
+Spatula querquedula,Garganey,Anseriformes,Anatidae,,no,Schedule-II,High,no,0
+Spilopelia chinensis,Spotted Dove,Columbiformes,Columbidae,,no,Schedule-II,Low,no,0
+Spilopelia senegalensis,Laughing Dove,Columbiformes,Columbidae,,no,Schedule-II,Low,no,0
+Spilornis cheela,Crested Serpent-Eagle,Accipitriformes,Accipitridae,,no,Schedule-I,Low,no,0
+Spinus spinus,Eurasian Siskin,Passeriformes,Fringillidae,,no,Schedule-II,,no,0
+Stercorarius parasiticus,Parasitic Jaeger,Charadriiformes,Stercorariidae,,no,,,no,0
+Sterna acuticauda,Black-bellied Tern,Charadriiformes,Laridae,Endangered,no,Schedule-I,High,no,0
+Sterna aurantia,River Tern,Charadriiformes,Laridae,Vulnerable,no,Schedule-I,Moderate,no,0
+Sterna paradisaea,Arctic Tern,Charadriiformes,Laridae,,no,,,no,0
+Sternula albifrons,Little Tern,Charadriiformes,Laridae,,no,Schedule-II,High,no,0
+Streptopelia decaocto,Eurasian Collared-Dove,Columbiformes,Columbidae,,no,Schedule-II,Low,no,0
+Streptopelia tranquebarica,Red Collared-Dove,Columbiformes,Columbidae,,no,Schedule-II,Low,no,0
+Streptopelia turtur,European Turtle-Dove,Columbiformes,Columbidae,Vulnerable,no,,,no,0
+Strix aluco,Tawny Owl,Strigiformes,Strigidae,,no,Schedule-II,,no,0
+Strix leptogrammica,Brown Wood-Owl,Strigiformes,Strigidae,,no,Schedule-I,,no,0
+Strix nivicolum,Himalayan Owl,Strigiformes,Strigidae,,no,,,no,0
+Strix ocellata,Mottled Wood-Owl,Strigiformes,Strigidae,,no,Schedule-I,,no,0
+Sturnia malabarica,Chestnut-tailed Starling,Passeriformes,Sturnidae,,no,Schedule-II,Low,no,0
+Sturnia pagodarum,Brahminy Starling,Passeriformes,Sturnidae,,no,Schedule-II,Low,no,0
+Surniculus dicruroides,Fork-tailed Drongo-Cuckoo,Cuculiformes,Cuculidae,,no,,,no,0
+Surniculus lugubris,Square-tailed Drongo-Cuckoo,Cuculiformes,Cuculidae,,no,Schedule-II,Low,no,0
+Sylvia borin,Garden Warbler,Passeriformes,Sylviidae,,no,,,no,0
+Sylviparus modestus,Yellow-browed Tit,Passeriformes,Paridae,,no,Schedule-II,Moderate,no,0
+Taccocua leschenaultii,Sirkeer Malkoha,Cuculiformes,Cuculidae,,no,Schedule-II,High,no,0
+Tachymarptis melba,Alpine Swift,Apodiformes,Apodidae,,no,Schedule-II,Low,no,0
+Tachyspiza badia,Shikra,Accipitriformes,Accipitridae,,no,Schedule-I,Low,no,0
+Tachyspiza virgata,Besra,Accipitriformes,Accipitridae,,no,Schedule-I,Low,no,0
+Tadorna ferruginea,Ruddy Shelduck,Anseriformes,Anatidae,,no,Schedule-II,High,no,0
+Tadorna tadorna,Common Shelduck,Anseriformes,Anatidae,,no,Schedule-II,,no,0
+Taenioptynx brodiei,Collared Owlet,Strigiformes,Strigidae,,no,Schedule-II,Low,no,0
+Tarsiger chrysaeus,Golden Bush-Robin,Passeriformes,Muscicapidae,,no,Schedule-II,Low,no,0
+Tephrodornis pondicerianus,Common Woodshrike,Passeriformes,Vangidae,,no,Schedule-II,Moderate,no,0
+Tetraogallus tibetanus,Tibetan Snowcock,Galliformes,Phasianidae,,no,,,no,0
+Tetrax tetrax,Little Bustard,Otidiformes,Otididae,Near-threatened,no,Schedule-I,,no,0
+Thinornis dubius,Little Ringed Plover,Charadriiformes,Charadriidae,,no,Schedule-II,High,no,0
+Thinornis placidus,Long-billed Plover,Charadriiformes,Charadriidae,,no,,,no,0
+Threskiornis melanocephalus,Black-headed Ibis,Pelecaniformes,Threskiornithidae,,no,Schedule-II,Low,no,0
+Tichodroma muraria,Wallcreeper,Passeriformes,Tichodromidae,,no,Schedule-II,High,no,0
+Treron phoenicopterus,Yellow-footed Green-Pigeon,Columbiformes,Columbidae,,no,Schedule-II,Low,no,0
+Treron sphenurus,Wedge-tailed Green-Pigeon,Columbiformes,Columbidae,,no,Schedule-II,Low,no,0
+Tringa erythropus,Spotted Redshank,Charadriiformes,Scolopacidae,,no,Schedule-II,High,no,0
+Tringa glareola,Wood Sandpiper,Charadriiformes,Scolopacidae,,no,Schedule-II,Moderate,no,0
+Tringa stagnatilis,Marsh Sandpiper,Charadriiformes,Scolopacidae,,no,Schedule-II,High,no,0
+Trochalopteron erythrocephalum,Chestnut-crowned Laughingthrush,Passeriformes,Leiothrichidae,,no,Schedule-II,Low,no,0
+Turdus albocinctus,White-collared Blackbird,Passeriformes,Turdidae,,no,,,no,0
+Turdus eunomus,Dusky Thrush,Passeriformes,Turdidae,,no,Schedule-II,,no,0
+Turdus obscurus,Eyebrowed Thrush,Passeriformes,Turdidae,,no,,,no,0
+Turdus philomelos,Song Thrush,Passeriformes,Turdidae,,no,,,no,0
+Turdus pilaris,Fieldfare,Passeriformes,Turdidae,,no,,,no,0
+Turdus simillimus,Indian Blackbird,Passeriformes,Turdidae,,no,,,no,0
+Turnix suscitator,Barred Buttonquail,Charadriiformes,Turnicidae,,no,Schedule-II,Low,no,0
+Turnix sylvaticus,Small Buttonquail,Charadriiformes,Turnicidae,,no,,,no,0
+Turnix tanki,Yellow-legged Buttonquail,Charadriiformes,Turnicidae,,no,,,no,0
+Tyto javanica,Eastern Barn Owl,Strigiformes,Tytonidae,,no,Schedule-I,,no,0
+Vanellus cinereus,Gray-headed Lapwing,Charadriiformes,Charadriidae,,no,,,no,0
+Vanellus duvaucelii,River Lapwing,Charadriiformes,Charadriidae,Near-threatened,no,Schedule-II,Low,no,0
+Vanellus gregarius,Sociable Lapwing,Charadriiformes,Charadriidae,Critically endangered,no,Schedule-I,High,no,0
+Vanellus indicus,Red-wattled Lapwing,Charadriiformes,Charadriidae,,no,Schedule-II,Low,no,0
+Vanellus leucurus,White-tailed Lapwing,Charadriiformes,Charadriidae,,no,Schedule-II,Moderate,no,0
+Vanellus malabaricus,Yellow-wattled Lapwing,Charadriiformes,Charadriidae,,no,Schedule-II,Low,no,0
+Vanellus vanellus,Northern Lapwing,Charadriiformes,Charadriidae,Near-threatened,no,Schedule-II,Moderate,no,0
+Xenus cinereus,Terek Sandpiper,Charadriiformes,Scolopacidae,,no,Schedule-II,High,no,0
+Yuhina flavicollis,Whiskered Yuhina,Passeriformes,Zosteropidae,,no,Schedule-II,Low,no,0
+Yungipicus canicapillus,Gray-capped Pygmy Woodpecker,Piciformes,Picidae,,no,Schedule-II,Low,no,0
+Yungipicus nanus,Brown-capped Pygmy Woodpecker,Piciformes,Picidae,,no,Schedule-II,Moderate,no,0
+Zapornia akool,Brown Crake,Gruiformes,Rallidae,,no,Schedule-II,Low,no,0
+Zapornia parva,Little Crake,Gruiformes,Rallidae,,no,,,no,0
+Zapornia pusilla,Baillon's Crake,Gruiformes,Rallidae,,no,Schedule-II,Moderate,no,0
+Zoothera dauma,Scaly Thrush,Passeriformes,Turdidae,,no,Schedule-II,Low,no,0
+Zoothera dixoni,Long-tailed Thrush,Passeriformes,Turdidae,,no,Schedule-II,,no,0
+Zoothera mollissima,Alpine Thrush,Passeriformes,Turdidae,,no,Schedule-II,Low,no,0
+Zosterops palpebrosus,Indian White-eye,Passeriformes,Zosteropidae,,no,Schedule-II,Low,no,0
